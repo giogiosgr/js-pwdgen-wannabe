@@ -6,4 +6,4 @@ const lastName = prompt("Inserisci il tuo cognome");
 const favColor = prompt("Inserisci il tuo colore preferito");
 
 // scrittura del risultato sulla console del browser  
-console.log(`${firstName}${lastName}${favColor}`)
+console.log(`${firstName}${lastName}${favColor}21`)
