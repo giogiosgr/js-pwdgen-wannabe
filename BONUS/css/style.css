@@ -12,10 +12,16 @@ body {
     background-color: gray;
 }
 
-/* MEDIA QUERY PER IL FONT SOTTO GLI 800px*/
+/* MEDIA QUERY PER IL FONT SOTTO VARIE MISURE*/
 
 @media screen and (max-width: 800px) {
     body {
         font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    body {
+        font-size: 20px;
     }
 }
