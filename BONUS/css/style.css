@@ -9,4 +9,13 @@
 body {
     font-family: Roboto, Arial;
     font-size: 30px;
+    background-color: gray;
+}
+
+/* MEDIA QUERY PER IL FONT SOTTO GLI 800px*/
+
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 25px;
+    }
 }
